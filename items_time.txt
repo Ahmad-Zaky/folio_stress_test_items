@@ -1,0 +1,1 @@
+New Item with barcode 1000001 for batch #1 TOOK (10.818575 sec) 

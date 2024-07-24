@@ -1,0 +1,6 @@
+
+Total time for batch #1: (10.818575 sec)
+Min 10.818575 s for 1 items Batch #1
+Averaged 10.818575 sec for 1 items Batch #1
+Max 10.818575 sec for 1 items Batch #1
+
